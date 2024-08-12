@@ -1,0 +1,57 @@
+{
+  "library": [
+    {
+      "__id": "tt10280296",
+      "user_id": "64e70250ed8b6d030140eb1e",
+      "_mtime": "2023-08-24T08:21:07.207Z"
+    },
+    {
+      "__id": "tt11663228",
+      "user_id": "64e70250ed8b6d030140eb1e",
+      "_mtime": "2023-08-24T11:11:24.842Z"
+    },
+    {
+      "__id": "tt15441054",
+      "user_id": "64e70250ed8b6d030140eb1e",
+      "_mtime": "2023-08-24T11:11:24.031Z"
+    },
+    {
+      "__id": "tt15671028",
+      "user_id": "64e70250ed8b6d030140eb1e",
+      "_mtime": "2023-08-24T11:11:26.627Z"
+    },
+    {
+      "__id": "tt28559407",
+      "user_id": "64e70250ed8b6d030140eb1e",
+      "_mtime": "2023-08-24T11:11:22.628Z"
+    },
+    {
+      "__id": "tt9362722",
+      "user_id": "64e70250ed8b6d030140eb1e",
+      "_mtime": "2023-08-24T11:11:25.735Z"
+    }
+  ],
+  "nif": {},
+  "nim": {},
+  "user": {
+    "_id": "64e70250ed8b6d030140eb1e",
+    "email": "vaibhavkumarverma1@gmail.com",
+    "fbId": "",
+    "fullname": "",
+    "avatar": "",
+    "anonymous": false,
+    "gdpr_consent": {
+      "marketing": true,
+      "privacy": true,
+      "tos": true,
+      "from": "app"
+    },
+    "taste": null,
+    "lang": "",
+    "dateRegistered": "2023-08-24T07:10:08.798Z",
+    "lastModified": "2023-08-24T07:10:08.798Z",
+    "trakt": {},
+    "stremio_addons": "",
+    "premium_expire": "0001-01-01T00:00:00Z"
+  }
+}
